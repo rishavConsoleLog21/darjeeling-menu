@@ -1,0 +1,205 @@
+[
+  {
+    "id": "m1",
+    "name": "Chicken Momo",
+    "price": "65",
+    "description": "Chicken Momo is a type of dumpling native to Tibet, traditionally filled with ground meat and vegetables and wrapped in a thin dough. Often served with a spicy dipping sauce.",
+    "image": "images/mac-and-cheese.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Chicken Fry Momo",
+    "price": "75",
+    "description": "Chicken Fry Momo is same as Chicken Momo but it is fried.",
+    "image": "images/margherita-pizza.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Chicken Chilly Momo",
+    "price": "110",
+    "description": "Chicken Chilly Momo is same as Chicken Momo but it is cooked with chilly sauce and bell pepper.",
+    "image": "images/caesar-salad.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Chicken Machurian Momo",
+    "price": "110",
+    "description": "Chicken Machurian Momo is same as Chicken Fry Momo but it is cooked with Machurian sauce and bell pepper.",
+    "image": "images/spaghetti-carbonara.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Chicken Schzewan Momo",
+    "price": "110",
+    "description": "Chicken Schzewan Momo is same as Chicken Momo but it is cooked with Schzewan sauce.",
+    "image": "images/veggie-burger.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Chicken Thukpa",
+    "price": "80",
+    "description": "A hearty Tibetan noodle soup with tender pieces of chicken, vegetables, and fragrant spices.",
+    "image": "images/grilled-chicken-sandwich.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Veg Fried Rice/Noodles",
+    "price": "70",
+    "description": "A classic Chinese dish made with stir-fried rice or noodles, mixed vegetables, and soy sauce.",
+    "image": "images/steak-frites.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Veg Schezwan Rice/Noodles",
+    "price": "90",
+    "description": "A spicy and flavorful dish made with stir-fried rice or noodles, mixed vegetables, and Schzewan sauce.",
+    "image": "images/sushi-roll-platter.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Veg Chillly Garlic Rice/Noodles",
+    "price": "90",
+    "description": "A tangy and garlicky dish made with stir-fried rice or noodles, mixed vegetables, and Chilly Garlic sauce.",
+    "image": "images/chicken-curry.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Veg Butter Garlic Rice/Noodles",
+    "price": "95",
+    "description": "A buttery and garlicky dish made with stir-fried rice or noodles, mixed vegetables, and Butter Garlic sauce.",
+    "image": "images/vegan-buddha-bowl.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Chicken Fried Rice/Noodles",
+    "price": "90",
+    "description": "A classic Chinese dish made with stir-fried rice or noodles, fried pieces of chicken, mixed vegetables, and soy sauce.",
+    "image": "images/seafood-paella.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Chicken Schezwan Rice/Noodles",
+    "price": "110",
+    "description": "A spicy and flavorful dish made with stir-fried rice or noodles, fried pieces of chicken, mixed vegetables, and Schzewan sauce.",
+    "image": "images/pancake-stack.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Chicken Chilly Garlic Rice/Noodles",
+    "price": "110",
+    "description": "A tangy and garlicky dish made with stir-fried rice or noodles, fried pieces of chicken, mixed vegetables, and Chilly Garlic sauce.",
+    "image": "images/miso-ramen.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Chicken Butter Garlic Rice/Noodles",
+    "price": "110",
+    "description": "A buttery and garlicky dish made with stir-fried rice or noodles, fried pieces of chicken, mixed vegetables, and Butter Garlic sauce.",
+    "image": "images/beef-tacos.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Veg Meal",
+    "price": "50",
+    "description": "A vegetarian meal consisting of Rice, Dal, Vegetable Curry and Papad.",
+    "image": "images/chocolate-brownie.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Chicken Meal",
+    "price": "100",
+    "description": "A non-vegetarian meal consisting of Rice, Dal, Chicken Curry and Papad.",
+    "image": "images/lobster-bisque.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Veg Momo",
+    "price": "50",
+    "description": "Steamed dumplings filled with a mixture of vegetables and spices, served with a tangy dipping sauce.",
+    "image": "images/mushroom-risotto.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Veg Fried Momo",
+    "price": "60",
+    "description": "Crispy fried dumplings filled with a mixture of vegetables and spices, served with a tangy dipping sauce.",
+    "image": "images/eggplant-parmesan.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Paneer Momo",
+    "price": "60",
+    "description": "Steamed dumplings filled with a mixture of paneer and spices, served with a tangy dipping sauce.",
+    "image": "images/lemon-cheesecake.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Paneer Fried Momo",
+    "price": "70",
+    "description": "Crispy fried dumplings filled with a mixture of paneer and spices, served with a tangy dipping sauce.",
+    "image": "images/falafel-wrap.jpg"
+  },
+  {
+    "id": "m21",
+    "name": "Veg Chilly Momo",
+    "price": "90",
+    "description": "Steamed dumplings filled with a mixture of vegetables and spices, cooked in a spicy and tangy chilly sauce.",
+    "image": "images/cheeseburger.jpg"
+  },
+  {
+    "id": "m22",
+    "name": "Veg Machurian Momo",
+    "price": "90",
+    "description": "Steamed dumplings filled with a mixture of vegetables and spices, cooked in a tangy and sweet Machurian sauce.",
+    "image": "images/chicken-parm.jpg"
+  },
+  {
+    "id": "m23",
+    "name": "Veg Schzewan Momo",
+    "price": "90",
+    "description": "Steamed dumplings filled with a mixture of vegetables and spices, cooked in a spicy and flavorful Schzewan sauce.",
+    "image": "images/lobster-roll.jpg"
+  },
+  {
+    "id": "m24",
+    "name": "Paneer Chilly Momo",
+    "price": "100",
+    "description": "Steamed dumplings filled with a mixture of paneer and spices, cooked in a spicy and tangy chilly sauce.",
+    "image": "images/pulled-pork-sandwich.jpg"
+  },
+  {
+    "id": "m25",
+    "name": "Paneer Machurian Momo",
+    "price": "100",
+    "description": "Steamed dumplings filled with a mixture of paneer and spices, cooked in a tangy and sweet Machurian sauce.",
+    "image": "images/lobster-roll.jpg"
+  },
+  {
+    "id": "m26",
+    "name": "Paneer Schzewan Momo",
+    "price": "100",
+    "description": "Steamed dumplings filled with a mixture of paneer and spices, cooked in a spicy and flavorful Schzewan sauce.",
+    "image": "images/pulled-pork-sandwich.jpg"
+  },
+  {
+    "id": "m27",
+    "name": "Paneer Manchurian Momo",
+    "price": "100",
+    "description": "Fried dumplings filled with a mixture of paneer and spices, cooked in a tangy and sweet Manchurian sauce.",
+    "image": "images/lobster-roll.jpg"
+  },
+  {
+    "id": "m28",
+    "name": "Paneer Chilly Garlic Momo",
+    "price": "100",
+    "description": "Fried dumplings filled with a mixture of paneer and spices, cooked in a tangy and garlicky Chilly Garlic sauce.",
+    "image": "images/pulled-pork-sandwich.jpg"
+  },
+  {
+    "id": "m29",
+    "name": "Paneer Schezwan Momo",
+    "price": "100",
+    "description": "Fried dumplings filled with a mixture of paneer and spices, cooked in a spicy and flavorful Schezwan sauce.",
+    "image": "images/pulled-pork-sandwich.jpg"
+  }
+]
