@@ -45,7 +45,7 @@ h1 {
   font-weight: 700;
   font-size: 2rem;
   margin: 0;
-  color: #1C1678;
+  color: hsl(244, 69%, 28%);
   letter-spacing: 0.2rem;
   text-transform: uppercase;
 }
@@ -78,7 +78,7 @@ h1 {
 
 .meal-item img {
   width: 100%;
-  height: 20rem;
+  height: 16rem;
   object-fit: cover;
 }
 
