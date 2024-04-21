@@ -20,6 +20,9 @@ The Darjeeling Menu web page is designed to showcase the menu of the Darjeeling 
 - Browse through the menu categories and food items
 - View detailed information about each food item, including description, price, and ingredients
 
+### need to add features
+- pay using razerPay/stripe payment(Which going to open in modal component)
+
 ## Installation
 
 To run the Darjeeling Menu web page locally, follow these steps:
