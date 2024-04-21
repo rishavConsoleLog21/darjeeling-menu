@@ -22,6 +22,10 @@ const Cart = () => {
     userProgressCtx.showCheckout();
   }
 
+  function handleCloseCart() {
+    userProgressCtx.hideCart();
+  }
+
   return (
     <Modal
       className="cart"
